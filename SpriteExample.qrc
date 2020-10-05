@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Sprites">
+        <file>Sprites/Classic_Pod.png</file>
+        <file>Sprites/Creme_Pod.png</file>
+        <file>Sprites/Cucumber_Pod.png</file>
+        <file>Sprites/Fruit_Pod.png</file>
+        <file>Sprites/Juul_Floating.gif</file>
+        <file>Sprites/LabelBackground.png</file>
+        <file>Sprites/Mango_Pod.png</file>
+        <file>Sprites/Menthol_Pod.png</file>
+        <file>Sprites/Mint_Pod.png</file>
+        <file>Sprites/Virginia_Pod.png</file>
+    </qresource>
+</RCC>
